@@ -14,7 +14,7 @@ identify key business insights that support data-driven decision-making.
 
 \## Dataset
 
-\- Source: Sample Superstore dataset
+\- Source: Sample Superstore dataset (public dataset available on Kaggle)
 
 \- Records: ~9,000 orders
 
@@ -107,5 +107,6 @@ identify key business insights that support data-driven decision-making.
 \- Enhance the dashboard with additional filters such as category and customer segment.
 
 \- Incorporate cost data to better understand drivers of regional underperformance.
+
 
 
