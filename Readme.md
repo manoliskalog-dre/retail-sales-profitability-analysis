@@ -1,6 +1,6 @@
 \# Retail Sales \& Profitability Analysis
 
-
+![Power BI Dashboard Preview](visuals/dashboard.png)
 
 \## Objective
 
@@ -107,4 +107,5 @@ identify key business insights that support data-driven decision-making.
 \- Enhance the dashboard with additional filters such as category and customer segment.
 
 \- Incorporate cost data to better understand drivers of regional underperformance.
+
 
